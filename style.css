@@ -50,6 +50,9 @@ body {
 .hex-amazon {
     background-image: url(amazon_logo2.png);
 }
+.hex-cell {
+    margin-bottom: 1rem;
+}
 .header {
     padding-top: 1rem;
     padding-bottom: 1rem;
