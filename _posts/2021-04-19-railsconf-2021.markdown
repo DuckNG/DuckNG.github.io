@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "RailsConf 2021"
+date:   2021-04-19 09:47:00 -0500
+categories: railsconf
+---
+This year was my fourth [RailsConf][railsconf], but my first since 2016 in Kansas City. It could probably go without saying that this one was quite different than the previous ones I've been to. But while this year's conference was all virtual, it was still great. In fact I would go so far as to say that it could be a blueprint for any future virtual programming conferences.
+
+The conference was a mix of pre-recorded talks, live streams of workshops and keynotes with Discord used through out for chat, Q&A, and discussions of all kinds. All of this will be available on the website for a month, along with the chat. So while the conference may be through, there's still plenty of opprotunity to learn from it in the weeks to come.
+
+Day 0 was the live streamed workshops. They were scheduled in 3 different timeslots, but unlike previous years they were all recorded and availble on the website after a few hours. Over the next 3 days, all the keynotes were live streamed and added to the website shortly after as well. With these livestreams came a healthy discussion, references, Q&A and jokes in the chat.
+
+All the pre-recorded talks dropped on Day 0, rather than the typical timeslot format on days 1 to 3. This meant there was no pressure to cram as much into a few days as possible, or pick one talk over another. Instead I could go through at my own pace, at multiple different playback speeds. I actually found myself taking more notes and looking at more material referenced in the talks than in previous years. Once I had finished a talk, I could hop on over to Discord to engage in discussions around the talk, or find all of my questions already answered.
+
+When I've gone to previous conferences I know I haven't gotten as much as I could out of it. I'm not one to strike up random conversations with people in the hallway or after talks. But this years version with chat available for all aspects gave me a way to easily find, engage in, or just read discussions around anything that was interesting to me. 
+
+If this had just been a drop of video's, I don't think it would've been near the success it was. Instead this was an instance of working within our current constraints, trying some new things and each peice coming together to make the whole event something special, more than the sum of its parts. 
+
+[railsconf]: https://railsconf.org/
